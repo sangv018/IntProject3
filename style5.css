@@ -1,0 +1,177 @@
+body {
+    background-image: url("galaxy2.jpg");
+    background-size: cover;
+    padding-right: 60px;
+}
+
+.labels {
+    font-size: 40px;
+    color: white;
+    font-weight: 100px;
+    text-shadow:1px 1px 20px #fff, 3px 3px 30px #ccc;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#heading {
+    font-size: 80px;
+    background: -webkit-linear-gradient(rgb(255, 43, 160), rgb(98, 0, 143), rgb(12, 3, 146));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 100px;
+    /* text-shadow:1px 1px 20px rgb(32, 32, 32), 3px 3px 30px rgb(29, 28, 28); */
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#C1 {
+    position: absolute;
+    top: 80px;
+    left: 0;
+}
+
+#C1:hover {
+    color: #ff8f8f;
+    text-shadow:0px 0px 30px #0e0d0d;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+
+
+#C2 {
+    position: absolute;
+    top: 300px;
+    left: 50;
+}
+
+#C2:hover {
+    color: #d752e9;
+    text-shadow:0px 0px 30px #0e0d0d;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+#C3 {
+    position: absolute;
+    top: 400px;
+    right: 175px;
+}
+
+#C3:hover {
+    color: #51189b;
+    text-shadow:0px 0px 60px #0e0d0d;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+#C4 {
+    position: absolute;
+    top: 500px;
+    left: 400;
+}
+
+#C4:hover {
+    color: #d752e9;
+    text-shadow:0px 0px 60px #0e0d0d;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+#C5 {
+    position: absolute;
+    top: 80px;
+    right: 80;
+}
+
+#C5:hover {
+    color: #2904a3;
+    text-shadow:0px 0px 60px #adadad;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+#C6 {
+    position: absolute;
+    top: 640px;
+    left: 40;
+}
+
+#C6:hover {
+    color: #b14487;
+    text-shadow:0px 0px 30px #0e0d0d;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+#C7 {
+    position: absolute;
+    top: 120px;
+    right: 570px;
+}
+
+#C7:hover {
+    color: #63099e;
+    text-shadow:0px 0px 60px #d8d8d8;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+#C8 {
+    position: absolute;
+    top: 600px;
+    right: 0;
+}
+
+#C8:hover {
+    color: #0c013b;
+    text-shadow:0px 0px 60px #fbfbfb;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+#C9 {
+    position: absolute;
+    top: 350px;
+    left: 600px;
+}
+
+#C9:hover {
+    color: #f584ff;
+    text-shadow:0px 0px 60px #aaaaaa;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
+
+#C10 {
+    position: absolute;
+    top: 700px;
+    right: 520px;
+}
+
+
+#C10:hover {
+    color: #8829f5;
+    text-shadow:0px 0px 60px #0e0d0d;
+    -moz-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in;
+}
