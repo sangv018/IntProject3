@@ -22,6 +22,19 @@ body {
     text-align: center;
 }
 
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+#table {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+
 #C1 {
     position: absolute;
     top: 80px;
