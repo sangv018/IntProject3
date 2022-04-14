@@ -4,10 +4,12 @@
 const airtableApiKey = "keyWImqyJCvS8PKBp";
 
 //Data is Location
-const tableUrl = "https://api.airtable.com/v0/appVUi5fcsMbiAXGQ/Table";
+const airtableDatabaseUrl = "https://api.airtable.com/v0/appVUi5fcsMbiAXGQ/laptops";
 
 //API Key Authentication
-const authenticatedUrl = tableUrl + "?api_key=" + airtableApiKey;
+const authenticatedUrl = airtableDatabaseUrl + "?api_key=" + airtableApiKey;
+
+console.log(authenticatedUrl)
 
 // STEP 2: DOM REFERENCES
 const tableContainerElement = document.querySelector("#table");

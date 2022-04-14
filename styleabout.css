@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'magical';
+    src: url(fonts/magical-shiny-script-font/MagicalShinyScript-w1gw3.ttf);
+}
+
+body {
+    background-image: url(galaxy.jpg);
+    background-repeat: repeat;
+    background-size: 100% 100%;
+}
+
+#title {
+    font-size: 80px;
+    color: rgb(37, 37, 37);
+    font-weight: 100px;
+    text-shadow:1px 1px 20px rgb(241, 241, 241), 3px 3px 30px rgb(241, 241, 241);
+    font-family:'magical';
+    text-align: center;
+}
+
+#about {
+    margin: 30px;
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    font-weight: 100px;
+    font-family:'magical';
+    text-align: center;
+    background-color:rgba(119, 136, 153, 0.507);
+}
+
+#end {
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    font-weight: 100px;
+    font-family:'magical';
+    text-align: center;
+}
+
+#back {
+    font-size: 70px;
+    color: rgb(255, 255, 255);
+    font-weight: 100px;
+    font-family:'magical';
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
